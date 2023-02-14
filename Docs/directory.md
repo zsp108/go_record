@@ -11,7 +11,7 @@
     - 1.8 写个HelloWorld 吧
 
 - 第 2 章：Go 编辑器和周边工具
-    - 2.1 编辑器Visio Code
+    - 2.1 [编辑器Visio Code](2-1.md)
     - 2.2 如何调试Go应用
     - 2.3 如何编译Go应用
     - 2.4 gofmt(格式化代码工具)
