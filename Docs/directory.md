@@ -7,7 +7,7 @@
     - 1.4 [在 Linux 上安装部署Go](1-4.md)
     - 1.5 在 Windows 上部署Go
     - 1.6 在Mac OS X上部署Go（穷，没钱买mac，自己百度看官网文档吧）
-    - 1.7 Go runtime 和解释器
+    - 1.7 [Go runtime 和解释器](1-7.md)
     - 1.8 写个HelloWorld 吧
 
 - 第 2 章：Go 编辑器和周边工具
